@@ -1,0 +1,10 @@
+project_id = "aphvljsrxdtxuiwktnvh"
+
+[functions.nasa-neo]
+verify_jwt = false
+
+[functions.nasa-orbital]
+verify_jwt = false
+
+[functions.earthquake-data]
+verify_jwt = false
